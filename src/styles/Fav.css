@@ -1,0 +1,14 @@
+.fav{
+    display: flex;
+margin: 8rem 10rem;
+   
+}
+.pic img{
+    height: 20rem;
+}
+.hkuch{
+    padding: 5px 2px;
+}
+.hkuch h3{
+padding: 2px 3px;
+}

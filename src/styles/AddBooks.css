@@ -1,0 +1,10 @@
+.addbooks{
+    padding-top: 10vh;
+    margin: 0px 20%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.addbooks h2{
+    /* font-size: 25px; */
+}

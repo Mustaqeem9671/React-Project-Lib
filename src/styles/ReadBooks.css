@@ -1,0 +1,37 @@
+.readbooks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background:#202020;
+}
+.poster img {
+  height: 400px;
+  width: auto;
+  margin: 20% auto;
+  border-radius: 10px;
+}
+.details{
+  padding: 0px 10px;
+
+}
+.details h3 {
+  width: auto;
+  color: #ccc;
+padding: 5px 0;
+}
+.details button:hover{
+    color: #ccc;
+    background: #202020;
+}
+.details button {
+  padding: 7px;
+  font-size: 20px;
+  margin: 5px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: all .45s;
+}
+.details .back button {
+  margin-left: 55%;
+  font-size: 20px;
+}

@@ -1,0 +1,33 @@
+.addusers {
+  /* background: #2a2a2a; */
+  margin: 0px 20%;
+  height: auto;
+  border-radius: 20px;
+}
+.h1 h1 {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 40px;
+}
+.forms form {
+  font-size: 40px;
+  padding: 10px 30px;
+  align-items: center;
+  margin-left: 27%;
+  /* border: none; */
+}
+.forms form input {
+  padding: 15px;
+  font-size: 25px;
+  margin: 10px 0;
+  border-radius: 15px;
+  /* outline: none; */
+}
+#button input {
+  padding: 10px 30px;
+  cursor: pointer;
+  border-radius: 15px;
+  /* border: none; */
+
+  margin-left: 18%;
+}

@@ -1,0 +1,68 @@
+* {
+  padding: 0;
+  
+}
+.main{
+    display: flex;
+    background-color: #000;
+}
+.admin {
+  background: #cecece;
+  position: absolute;
+  margin-left: 40%;
+  margin-top: 15%;
+  border-radius: 10px;
+  padding: 20px;
+  transition: all .45s;
+}
+.admin:hover{
+    border:  2px red solid;
+    cursor: pointer;
+    background:#2a2a2a;
+    transform: scale(0.1s);
+    color: #fff;
+}
+.admin h2 {
+  padding-left: 24%;
+  margin-bottom: 0;
+  font-size: 25px;
+}
+
+.adminForm form {
+  padding: 30px;
+}
+.adminForm form input {
+  width: 300px;
+  padding: 10px;
+  margin-top: 20px;
+  outline: none;
+  border: none;
+  height: 30px;
+  border-radius: 10px;
+}
+.adminForm form input:focus{
+    border: 2px solid black;
+}
+
+.loginBtn button {
+  display: block;
+  margin-top: 20px;
+  margin-left: 130px;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  padding: 7px;
+  transition: all .45s;
+
+}
+.loginBtn button:hover{
+    color: #fff;
+    background: #000;
+    border-radius: 50%;
+    transform: scale(0.1s);
+    padding: 10px;
+
+}
